@@ -1,6 +1,10 @@
 # SQL-exercise
 Schemas, Questions &amp; Solutions for SQL Exercising
 
+## update
+
+- add my answerin there
+
 ## Introduction
 The schemas and questions are 
 
