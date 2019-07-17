@@ -3,7 +3,7 @@ Schemas, Questions &amp; Solutions for SQL Exercising
 
 ## update
 
-- add my answerin there
+- 20190717, add my answer in there
 
 ## Introduction
 The schemas and questions are 
