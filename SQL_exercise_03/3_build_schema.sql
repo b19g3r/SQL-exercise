@@ -1,6 +1,11 @@
 -- The Warehouse
 -- lINK: https://en.wikibooks.org/wiki/SQL_Exercises/The_warehouse
 
+drop table Boxes;
+
+drop table Warehouses;
+
+
 CREATE TABLE Warehouses (
    Code INTEGER NOT NULL,
    Location VARCHAR(255) NOT NULL ,

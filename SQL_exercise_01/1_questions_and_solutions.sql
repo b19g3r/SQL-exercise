@@ -1,5 +1,5 @@
 -- LINK: https://en.wikibooks.org/wiki/SQL_Exercises/The_computer_store
-
+use leaning_db;
 
 -- 1.1 Select the names of all the products in the store.
 select Name from Products;

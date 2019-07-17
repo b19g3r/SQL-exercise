@@ -1,4 +1,5 @@
 -- LINK: https://en.wikibooks.org/wiki/SQL_Exercises/The_computer_store
+use leaning_db;
 
 CREATE TABLE Manufacturers (
   Code INTEGER,

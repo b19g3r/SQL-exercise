@@ -1,5 +1,8 @@
 -- LINK: https://en.wikibooks.org/wiki/SQL_Exercises/The_computer_store
+use learning_db;
 -- 1.1 Select the names of all the products in the store.
+select name from
+
 -- 1.2 Select the names and the prices of all the products in the store.
 -- 1.3 Select the name of the products with a price less than or equal to $200.
 -- 1.4 Select all the products with a price between $60 and $120.
